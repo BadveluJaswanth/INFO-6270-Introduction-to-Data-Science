@@ -1,0 +1,23 @@
+Halifax — Average Rent by Bedroom Type by Zone
+October 2019 Apartment
+,Bachelor,,1 Bedroom,,2 Bedroom,,3 Bedroom +,,Total,,
+Peninsula South,888,a ,"1,203",a ,"1,656",a ,"1,949",b ,"1,337",a ,
+Peninsula North,754,a ,951,a ,"1,189",a ,"1,408",a ,"1,083",a ,
+Mainland South,642,b ,696,a ,838,a ,897,b ,779,a ,
+Mainland North,776,a ,923,a ,"1,186",a ,"1,405",a ,"1,128",a ,
+Dartmouth North,596,a ,751,a ,984,a ,"1,176",b ,886,a ,
+Dartmouth South,589,b ,940,c ,"1,154",a ,"1,012",a ,"1,061",a ,
+Dartmouth East,760,a ,830,b ,"1,072",a ,958,b ,"1,015",a ,
+Bedford,656,d ,863,a ,"1,327",a ,"1,477",a ,"1,286",a ,
+Sackville,**,,931,a ,"1,098",a ,"1,288",a ,"1,101",a ,
+Remainder of CMA,**,,"1,074",a ,"1,503",a ,"1,548",b ,"1,422",a ,
+Halifax,812,a ,959,a ,"1,202",a ,"1,390",a ,"1,113",a ,
+
+Notes
+"The following letter codes are used to indicate the reliability of the estimates: a - Excellent, b- Very good, c - Good, d - Fair (Use with Caution)"
+** Data suppressed to protect confidentiality or data not statistically reliable
+++ Change in rent is not statistically significant. This means that the change in rent is not statistically different than zero (0).  (Applies only to % Change of Average Rent Tables).
+ - No units exist in the universe for this category
+n/a: Not applicable
+"CMA, CA and CSD definitions are based on 2016 Census Geography Definitions"
+Source,CMHC Rental Market Survey
