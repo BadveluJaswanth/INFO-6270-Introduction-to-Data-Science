@@ -1,0 +1,102 @@
+District
+Councillor
+Website
+Phone
+Email
+1 - Waverley-Fall River-Musquodoboit Valley
+Steve Streatch
+www.halifax.ca/district01
+902-579-6738
+steve.streatch@halifax.ca
+2 - Preston-Chezzetcook -Eastern Shore
+David Hendsbee
+www.halifax.ca/district02
+902-483-0705
+david.hendsbee@halifax.ca
+3- Dartmouth South-Eastern Passage
+Bill Karsten
+www.halifax.ca/district03
+902-476-1855
+bill.karsten@halifax.ca
+4 - Cole Harbour-Westphal
+Lorelei Nicoll
+www.halifax.ca/district04
+902-478-2705
+lorelei.nicoll@halifax.ca
+5 - Dartmouth Centre
+Sam Austin
+www.halifax.ca/district05
+902-579-6814
+sam.austin@halifax.ca
+6 - Harbourview-Burnside-Dartmouth East
+Tony Mancini
+www.halifax.ca/district06
+902-292-4823
+tony.mancini@halifax.ca
+7- Peninsula South-Downtown
+Waye Mason
+www.halifax.ca/district07
+902-430-7822
+waye.mason@halifax.ca
+8 - Peninsula North
+Lindell Smith
+www.halifax.ca/district08
+902-579-6975
+lindell.smith@halifax.ca
+9 - Armdale- Peninsula West
+Shawn Cleary
+www.halifax.ca/district09
+902-579-6746
+shawn.cleary@halifax.ca
+10- Halifax-Bedford Basin West
+Russell Walker
+www.halifax.ca/district10
+902-497-7215
+russell.walker@halifax.ca
+11 - Spryfield-Sambro Loop-Prospect Road
+Steve Adams
+www.halifax.ca/district11
+902-497-8818
+stephen.adams@halifax.ca
+12 - Timberlea-Beechville-Clayton Park West
+Richard Zurawski
+www.halifax.ca/district12
+902-579-7453
+richard.zurawski@halifax.ca
+13- Hammonds Plains-St. Margaret's
+Matt Whitman
+www.halifax.ca/district13
+902-240-3330
+matt.whitman@halifax.ca
+14 - Middle & Upper Sackville- Lucasville
+Lisa Blackburn
+www.halifax.ca/district14
+902-579-7164
+lisa.blackburn@halifax.ca
+15- Lower Sackville
+Paul Russell
+www.halifax.ca/district15
+902-240-0441
+paul.russell@halifax.ca
+16 - Bedford- Wentworth
+Tim Outhit
+www.halifax.ca/district16
+902-229-6385
+tim.outhit@halifax.ca
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+Mailing Address
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
+PO Box 1749, Halifax Nova Scotia B3J 3A5
